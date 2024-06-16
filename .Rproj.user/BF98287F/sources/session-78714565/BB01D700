@@ -1,0 +1,26 @@
+{
+    "id": "BB01D700",
+    "path": "C:/Users/gkandlikar/Desktop/gklab/gaurav/shiny-temp/popdyns/app.R",
+    "project_path": "popdyns/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1718574719835.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "63,0",
+        "scrollLine": "47"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718575432,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718575432792,
+    "read_only": false,
+    "read_only_alternatives": []
+}
